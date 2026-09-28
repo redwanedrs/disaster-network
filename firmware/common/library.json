@@ -1,0 +1,7 @@
+{
+  "name": "DisasterNetworkCommon",
+  "version": "1.0.0",
+  "description": "Shared LoRa, AES-128-GCM packet protocol, and hardware configuration for Disaster Network",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

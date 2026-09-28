@@ -1,0 +1,32 @@
+# PlatformIO
+.pio/
+.piolibdeps/
+.vscode/
+.idea/
+
+# Build outputs
+build/
+dist/
+
+# PlatformIO/IDE local state
+*.pyc
+__pycache__/
+
+# Secrets
+secrets.h
+disaster_secrets.h
+**/secrets.h
+**/disaster_secrets.h
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Generated documentation artifacts
+*.pdf
